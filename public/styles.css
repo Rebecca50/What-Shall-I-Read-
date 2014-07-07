@@ -1,0 +1,40 @@
+html {
+  background: url(http://i.imgur.com/2eYXgFF.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 28px;
+  color: orangered;
+  padding-top: 50px;
+  padding-left: 50px;
+
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 28px;
+  color: orangered;
+  padding-top: 80px;
+  padding-left: 80px;
+
+}
+
+a:link {
+    color: #C71585;
+    padding-left: 70px;
+    font-size: 26px;
+}
+
+
+a:hover {
+     color: #FF00FF;
+     padding-left: 70px;
+     font-size: 26px;
+}
+
+
